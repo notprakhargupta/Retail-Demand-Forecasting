@@ -3,12 +3,11 @@ Understand the impacts of additional features related to stock-out, store closin
 
 
 
-Based on the feedback of the last Makridakis Forecasting Competitions, Machine Learning models can reduce the forecasting error by 20% to 60% compared to benchmark statistical models.
+Machine Learning models can reduce the forecasting error by 20% to 60% compared to benchmark statistical models.
 
 Their major advantage is the capacity to include external features that heavily impact the variability of your sales.
 
-For example, e-commerce cosmetics sales are driven by *special events (promotions) and on how you advertise a reference on the website (first page, second page, …).
-
+For example, e-commerce cosmetics sales are driven by *special events (promotions) and on how you advertise a reference on the website.
 This process called features engineering is based on analytical concepts and business insights to understand what could drive your sales.
 
 Article
