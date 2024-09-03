@@ -20,9 +20,4 @@ Based on business insights or common sense, we will add additional features, bui
 
 
 Data set
-This analysis will be based on the M5 Forecasting dataset of Walmart stores sales records (Link).
-
-Code
-Create a folder Data in your directory where the notebook is located
-Download all the files of the kaggle forecasting competition (Link): https://www.kaggle.com/c/m5-forecasting-accuracy
-Launch the notebook
+This analysis will be based on the M5 Forecasting dataset of Walmart stores sales records: https://www.kaggle.com/c/m5-forecasting-accuracy
